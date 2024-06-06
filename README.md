@@ -2,7 +2,7 @@
 <h1 align="center">Olá, meu nome é Pedro!</h1>
 <h3 align="center">Bem vindos ao meu Portfólio</h3>
 
-- 🔭 **Foco atual:** Atualmente estou focado em me aprofundar nas bibliotecas de machine learning e de análise de dados do Python, como Scikit-learning, PyTorch, Pandas e Numpy.
+- 🔭 **Foco atual:** Atualmente estou me aprofundando nas bibliotecas de machine learning e de análise de dados do Python, como Scikit-learning, PyTorch, Pandas, Numpy e PySpark.
 
 - 📚 **Sobre minhas experiências:** Tenho experiência pessoal e profissinal na área de dados. Utilizo uma variedade de ferramentas, incluindo Excel (PROCX, Tabelas Dinâmicas, Análise e tratamento de dados), Python (Pandas, Selenium, ML, construção de gráficos e análises) e SQL (Subqueries, JOINs, Tratamento de base de dados), para resolver problemas complexos e extrair insights valiosos. Além disso, sou proficiente em Power BI, desenvolvendo relatórios de acompanhamento e métricas KPI, e tenho experiência com metodologia Scrum, garantindo entregas eficientes e de alta qualidade. Meu histórico inclui não apenas habilidades técnicas sólidas, mas também excelentes habilidades interpessoais, demonstradas através do meu contato bem-sucedido com uma variedade de clientes, tanto nacionais quanto internacionais.
 
