@@ -31,6 +31,7 @@
 - [Python - Análise de dados exploratória](https://github.com/PedroDSantos04/AnaliseIBM/tree/main)
 - [SQL - Análise de dados de uma concessionária](https://github.com/PedroDSantos04/Curso_SQL)
 - [Power BI - Projetos pessoais](https://github.com/PedroDSantos04/power_bi)
+- [Python - Análise de dados utilizando KMeans](https://github.com/PedroDSantos04/AnaliseClusters)
 
 <br>
 <div align="left">
